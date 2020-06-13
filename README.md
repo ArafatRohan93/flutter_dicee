@@ -27,4 +27,4 @@ It's a Las Vegas dice app. You can make the die roll at the press of a button. W
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![Screenshot](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+![Screenshot](https://github.com/ArafatRohan93/flutter_dicee/blob/master/Screenshot.png)
